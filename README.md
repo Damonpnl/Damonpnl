@@ -41,15 +41,6 @@ Goal: turn markets into interpretable systems instead of black boxes
 
 ---
 
-### ATELIER
-AI stylist system focused on reducing decision fatigue
-
-- Daily outfit generation
-- Climate-aware personalization
-- Minimal premium UX
-
----
-
 ## Philosophy
 
 Most people try to predict outcomes.
