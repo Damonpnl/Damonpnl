@@ -20,7 +20,7 @@ I build systems that model them.
 
 ## Current Projects
 
-### SafeChain
+### Aegis
 AI-powered risk intelligence for high-risk digital markets
 
 - Detects scams before execution
