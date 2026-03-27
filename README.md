@@ -13,9 +13,6 @@ Building systems that explain why the world moves
 - Behavioral Economics + Incentives
 - Automation at Scale
 
-I don’t chase trends.  
-I build systems that model them.
-
 ---
 
 ## Current Projects
