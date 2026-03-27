@@ -92,7 +92,7 @@ LLM pipelines · agent systems · probabilistic modeling
 
 **Automation**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) · custom agents
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) · custom agents · Claude
 
 ---
 
