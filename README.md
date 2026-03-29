@@ -1,4 +1,4 @@
-<h1 align="center">Damon &nbsp;<a href="https://x.com/damonpnl"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)" height="28"/></a></h1>
+<h1 align="center">Aru &nbsp;<a href="https://x.com/damonpnl"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)" height="28"/></a></h1>
 <p align="center">
 Building systems that explain why the world moves
 </p>
