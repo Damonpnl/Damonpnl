@@ -6,10 +6,9 @@
 
 ## Core Focus
 
-- AI Systems
-- Prediction Markets
-- Behavioral Economics + Incentives
-- Automation at Scale
+- Agentic AI 
+- Behavioral Economics
+- Scaled Automation
 
 ---
 
