@@ -38,19 +38,6 @@ Goal: turn markets into interpretable systems instead of black boxes
 
 ---
 
-## Philosophy
-
-Most people try to predict outcomes.
-
-I focus on:
-- Incentive structures
-- Information asymmetry
-- Feedback loops in behavior
-
-Understanding these removes the need for prediction.
-
----
-
 ## Stack
 
 **Languages**
