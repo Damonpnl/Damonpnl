@@ -1,6 +1,5 @@
 <h1 align="center">Damon &nbsp;<a href="https://x.com/damonpnl"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (formerly Twitter)" height="28"/></a></h1>
 <p align="center">
-Building systems that explain why the world moves
 </p>
 
 ---
@@ -9,7 +8,6 @@ Building systems that explain why the world moves
 
 - AI Systems
 - Prediction Markets
-- DeFi + On-Chain Intelligence
 - Behavioral Economics + Incentives
 - Automation at Scale
 
@@ -68,14 +66,6 @@ LLM pipelines · agent systems · probabilistic modeling
 **Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) · custom agents · Claude
-
----
-
-## Direction
-
-- AI systems that explain markets in real time
-- Autonomous agents operating across financial systems
-- Tools that reduce information disadvantage
 
 Long term goal:
 A new interface for understanding uncertainty
